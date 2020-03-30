@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+    text-align-last: center;
+}
+
+h1, h2{
+    color: white;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.title1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.title2,.last-sentence {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.sentence {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+}
